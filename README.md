@@ -1,4 +1,4 @@
-Git is a hit
+Git is a super  hit
 
 
 # my_1stProject
